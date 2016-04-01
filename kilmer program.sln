@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C72CE628-8D7E-714A-9592-E7685AF63A00}") = "kilmer program", "Assembly-CSharp.csproj", "{22AD326D-62A5-1E88-7B0B-A4D94C1CD741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22AD326D-62A5-1E88-7B0B-A4D94C1CD741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AD326D-62A5-1E88-7B0B-A4D94C1CD741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AD326D-62A5-1E88-7B0B-A4D94C1CD741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AD326D-62A5-1E88-7B0B-A4D94C1CD741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
